@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\ALGO.js"
+            "program": "${workspaceFolder}\\trouver_grans_petite.js"
         }
     ]
 }
